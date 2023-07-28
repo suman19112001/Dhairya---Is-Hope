@@ -9,14 +9,10 @@
 //   }
 // }
 
-import 'dart:io';
-
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-String _url = Platform.isAndroid
-    ? 'http://192.168.219.165:5000/articles/article'
-    : 'http://localhost:5000/articles/article';
+String _url = 'http://localhost:5000/articles/article';
 Future<void> fetchData() async {
   var url = Uri.parse(_url); // Replace with your server's URL
 
