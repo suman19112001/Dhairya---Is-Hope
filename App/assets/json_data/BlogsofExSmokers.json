@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "title": "Quit Smoking",
+      "subtitle": "Healthline - Quit Smoking",
+      "summary": "Android-iPhone apps for quitting smoking for initial staged smokers who are strongly willing to quit this life-taking habit.",
+      "description": "Smoking remains the leading cause of preventable disease and death in the United States. And because of the nature of nicotine it can be close to impossible to kick the habit. But there are options that can help, and your smartphone is one of them.We have  rounded up the best apps on iPhone and Android devices that can help you quit smoking. Between their quality, reliability, and great reviews, these apps will help you quit your habit one day at a time.",
+      "article": "https://www.healthline.com/health/quit-smoking/top-iphone-android-apps",
+      "coverImage": "https://cdn.dribbble.com/users/5031392/screenshots/16030725/media/16b7de5f1be3460062e85ea3d0cc8d1a.png?compress=1&resize=400x300",
+      "contentImage": [
+        "https://kwit.app/images/en/video-thumbnail-en",
+        "https://play-lh.googleusercontent.com/U2Yi6XZjklu4RBi0ac4qCrblSc5fycrMXzuhHRnwc96NofYVK36ne44gzpRN1W8Naas"
+      ]
+    },
+
+    {
+      "title": "Smoking and Mental Health",
+      "subtitle": "Mental Health Foundations",
+      "summary": "Why is smoking so addictive? When a person smokes, nicotine reaches the brain within about ten seconds. At first, nicotine improves mood and concentration, decreases anger and stress, relaxes muscles and reduces appetite. Regular doses of nicotine lead to changes in the brain, which then lead to nicotine withdrawal symptoms when the supply of nicotine decreases. Smoking temporarily reduces these withdrawal symptoms and can therefore reinforce the habit. This cycle is how most smokers become nicotine dependent.",
+      "description": "If you are a smoker, there is now a lot of support available to help you quit. Its never too late to give up, and you may find that quitting reduces your levels of stress, anxiety and depression. Some people smoke as self-medication to ease feelings of stress. However, research has shown that smoking actually increases anxiety and tension. Nicotine creates an immediate sense of relaxation, so people smoke in the belief it reduces stress and anxiety. This feeling is temporary and soon gives way to withdrawal symptoms and increased cravings. Smoking reduces withdrawal symptoms but doesnt reduce anxiety or deal with the reasons someone may feel that way.",
+      "article": "https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/smoking-and-mental-health",
+      "coverImage": "https://t3.ftcdn.net/jpg/05/77/39/48/240_F_577394829_eBoKiZye4zKjtQoG74n4PgGcdFbeQfjp.jpg",
+      "contentImage": [
+        "https://images.ctfassets.net/vrrt8fsfwf0e/7hnUo9yd3WlJYsXcbHwVl8/7eb7963e3bee8a69dbd7868e9bd6fa7b/a8hnw-yeoc3.jpg",
+        "https://www.theexprogram.com/wp-content/uploads/2021/07/employee-mental-health.png"
+      ]
+    },
+
+    {
+      "title": "Tobacco smoking: Health impact, prevalence, correlates and interventions",
+      "subtitle": "National Cancer Institue ",
+      "summary": "Providing behavioural and pharmacological support can improve the rate at which those quit attempts succeed. Implementing national programmes containing these components are effective in reducing tobacco smoking prevalence and reducing smoking-related death and disease.",
+      "description": "Despite reductions in prevalence in recent years, tobacco smoking remains one of the main preventable causes of ill-health and premature death worldwide. This paper reviews the extent and nature of harms caused by smoking, the benefits of stopping, patterns of smoking, psychological, pharmacological and social factors that contribute to uptake and maintenance of smoking, the effectiveness of population and individual level interventions aimed at combatting tobacco smoking, and the effectiveness of methods used to reduce the harm caused by continued use of tobacco or nicotine in some form.",
+      "article": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490618/",
+      "coverImage": "https://img.freepik.com/free-photo/flat-lay-no-tobacco-day-elements-composition_23-2148874864.jpg?w=360&t=st=1683313422~exp=1683314022~hmac=7b49e810ceb153abfef36292b042f2804bfbf641e1134a35c48945962858c915",
+      "contentImage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BBAdF-f4jrH5--pTxEQPL37uL-WSJzgZ28Weem-jABf8gD_E1YQeTpFOTkKPVrLa46M&usqp=CAU",
+        "https://d3futrf33lk36a.cloudfront.net/wp-content/uploads/sites/240/2021/11/point-of-care-infographic.jpg"
+      ]
+    },
+
+    {
+      "title": "Harms of Cigarette Smoking and Health Benefits of Quitting",
+      "subtitle": "National Cancer Institute",
+      "summary": "Harms of Cigarette Smoking and Health Benefits of Quitting",
+      "description": "Tobacco smoke contains many chemicals that are harmful to both smokers and nonsmokers. Breathing even a little tobacco smoke can be harmful. Of the more than 7,000 chemicals in tobacco smoke, at least 250 are known to be harmful, including hydrogen cyanide, carbon monoxide, and ammonia. Among the 250 known harmful chemicals in tobacco smoke, at least 69 can cause cancer. These cancer-causing chemicals include the following: Acetaldehyde, Aromatic Amines....read more",
+      "article": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/cessation-fact-sheet",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/9/92/Risks_form_smoking-smoking_can_damage_every_part_of_the_body.png",
+      "contentImage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEL3b4E92LmQIOrZtRLqz2ke_Y1gxvvYIEWg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyLFxPs47UvfWKi3tJoQrkM0QQkXBlKbfOw&usqp=CAU"
+      ]
+    },
+
+    {
+      "title": "Tips From Former Smokers ",
+      "subtitle": "Cleveland Clinic",
+      "summary": "Since at least the 1950s, health experts have linked smoking to lung cancer. Research continues to pinpoint more ways tobacco harms your health, from cancers to chronic (long-term) diseases.",
+      "description": "Tobacco has been around for centuries, but what we know about the health damage from smoking is much newer. For example, smokers tend to die more than 10 years earlier than people who don’t smoke. You can improve your health by choosing to quit smoking.",
+      "article": "https://my.clevelandclinic.org/health/articles/17488-smoking",
+      "coverImage": "https://www.verywellmind.com/thmb/sN_1Grx2JatKVbePEOH4ufhaUDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1141358432-088ec597f8be4f3db1b0a966e346b840.jpg",
+      "contentImage": [
+        "https://blog-images-1.pharmeasy.in/2019/11/14132606/blog-06-1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVqnMRd_4SqvFC6hcu-X3mOAIQvYivAJ5tg&usqp=CAU"
+      ]
+    }
+  ]
+}

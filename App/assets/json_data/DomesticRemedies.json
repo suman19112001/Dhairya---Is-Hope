@@ -1,0 +1,56 @@
+{
+  "remedies": [
+    {
+      "title": "Mak your quit plans",
+      "subtitle": "smoke free.gov",
+      "summary": "Quitting smoking can be hard. Creating a personalized quit plan makes it easier to stay on track, get through hard times, and quit for good.",
+      "description": "1. Cold Turkey: This is a method where you stop smoking abruptly without any gradual reduction in smoking. It requires a lot of determination and willpower, but some people find this method effective. \n2. Nicotine Replacement Therapy (NRT): NRT involves using nicotine replacement products such as nicotine patches, gum, lozenges, or inhalers to reduce the withdrawal symptoms that come with quitting smoking. These products deliver controlled amounts of nicotine to the body, which helps to reduce cravings. \n3. Medications: Certain prescription medications such as bupropion or varenicline can also help reduce nicotine cravings and withdrawal symptoms. These medications should only be used under the guidance of a healthcare professional. \n4. Counseling or Support Groups: Talking to a counselor or joining a support group can also help you quit smoking. These resources provide emotional support, advice, and encouragement to help you stay on track. \n5. Combination of Methods: Combining different quit plans such as NRT, medications, and counseling can increase your chances of quitting smoking successfully.",
+
+      "article": "https://smokefree.gov/build-your-quit-plan",
+      "coverImage": "https://www.mondaycampaigns.org/wp-content/uploads/2020/04/quit-stay-quit-monday-graphic-quit-plan.png",
+      "contentImage": [
+        "https://www.pyzdekinstitute.com/wp-content/uploads/2022/03/stages-of-quitting.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjLGVdStr-_h0U2jW08oVBuzDxZd8mj1hFw&usqp=CAU"
+      ]
+    },
+
+    {
+      "title": "How to quit smoking via quit plans",
+      "subtitle": "HelpGuide.org",
+      "summary": "How to quit smoking  your personal quit plan to make you conquer your demon.",
+      "description": "We all know the health risks of smoking but that doesnt make it any easier to kick the habit. Whether you are an occasional teen smoker or a lifetime pack a day smoker quitting can be really tough. Smoking tobacco is both a physical addiction and a psychological habit. The nicotine from cigarettes provides a temporary and addictive high. Eliminating that regular fix of nicotine causes your body to experience physical withdrawal symptoms and cravings. Because of nicotine feel good effect on the brain  you may turn to cigarettes as a quick and reliable way to boost your outlook relieve stress and unwind. Smoking can also be a way of coping with depression anxiety or even boredom. Quitting means finding different healthier ways to cope with those feelings.",
+      "article": "https://www.helpguide.org/articles/addictions/how-to-quit-smoking.htm",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDwb9w-w9qEeJ41l9q-BScPGdhzWjVC0_p8w&usqp=CAU",
+      "contentImage": [
+        "https://img.freepik.com/free-vector/how-quit-smoking-infographic_23-2148689176.jpg",
+        "https://share-cdn-prod.azureedge.net/wp-content/uploads/2015/01/UPMC_SmokeFree_QuitMethods_FINAL-524x524.png.webp"
+      ]
+    },
+
+    {
+      "title": "foods and drinks for smokers to quit!",
+      "subtitle": "truth initiative",
+      "summary": "4 foods and drinks that could help smokers quit",
+      "description": "Certain foods and drinks can be a potential benefit or burden when trying to quit smoking.If you are looking to kick the habit or know someone who is here are four foods and drinks that could help smokers quit and stay tobacco-free.",
+      "article": "https://truthinitiative.org/research-resources/quitting-smoking-vaping/4-foods-and-drinks-could-help-smokers-quit",
+      "coverImage": "https://www.mapsofindia.com/ci-moi-images/my-india/2019/11/quit-smoking-diet.jpg",
+      "contentImage": [
+        "https://www.verywellmind.com/thmb/DDAxj7gL-GAxyhxD65_4SV_0TFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/things-to-do-instead-of-smoking-2824746-final-a027dc6082194168be1005b7a1ce8a58.png",
+        "https://www.verywellmind.com/thmb/8FQPORJHsZ0fk3AS8Wd3qyA88Ks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5-minute-craving-busters-2824747_FINAL-5bd0bfe046e0fb0051c82ed7.png"
+      ]
+    },
+
+    {
+      "title": "How exercise is key to successfully quitting smoking",
+      "subtitle": "ScienceDaily",
+      "summary": "Exercise can help smokers finally kick the habit, suggests new research. The study reveals that even moderate intensity exercise markedly reduces the severity of nicotine withdrawal symptoms.",
+      "description": "The study reveals that even moderate intensity exercise markedly reduces the severity of nicotine withdrawal symptoms. Researchers also showed there was an increased activation of a type of receptor in the brain called  nicotinic acetylcholine  which is a target of nicotine. The findings support the protective effect of exercise preceding smoking cessation against the development of physical dependence which may aid smoking cessation by reducing the severity of withdrawal symptoms.",
+      "article": "https://www.sciencedaily.com/releases/2017/12/171219220355.htm",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGk0oLm0PPZ2KNLGvH896lma4DX6fFsO0DA&usqp=CAU",
+      "contentImage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAGRHYQzsZciZtzrQ_9382g7sTiSXJj-nQQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7xOp9iPJGFPMjJGDXPedD_Q_HcV2Sqr-wA&usqp=CAU"
+      ]
+    }
+  ]
+}

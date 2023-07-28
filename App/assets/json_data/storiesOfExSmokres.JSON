@@ -1,0 +1,30 @@
+{
+  "stories": [
+    {
+      "title": "Tips from ex-smokers4",
+      "subtitle": "Office on Smoking and Health National Center for Chronic Disease Prevention and Health Promotion Centers for Disease Control and Prevention",
+      "summary": "Read stories of ex-smokers and boost your will to quit smoking as soon as possible",
+      "description": "",
+      "article": "https://www.cdc.gov/tobacco/campaign/tips/stories/index.html",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2PL_LQUHq0m-BrnZvxlj6Iev8-2rQ7V1EA&usqp=CAU"
+    },
+
+    {
+      "title": "Tips from ex-smokers5",
+      "subtitle": "Office on Smoking and Health National Center for Chronic Disease Prevention and Health Promotion Centers for Disease Control and Prevention",
+      "summary": "Read some quitting success stories",
+      "description": "Read stories of ex-smokers and boost your will to quit smoking as soon as possible",
+      "article": "https://www.lung.ca/lung-health/smoking-and-tobacco/quitting-success/view-all-quitting-success-stories",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeE6BclFMgA-0fyTANNbQrpSSLpLEluAnYgw&usqp=CAU"
+    },
+
+    {
+      "title": "Tips from ex-smokers6",
+      "subtitle": "Office on Smoking and Health, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention",
+      "summary": "Smoking Cessation Stories",
+      "description": "Its obvious that successful smoking cessation depends on many variables  some methods wont work for some people while others will and some smokers will get the best results from a combination of techniques. Read out Smoking Cessation stories and learn from their mistakes.",
+      "article": "https://tobaccofreelife.org/staying-quit/success-stories/",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZJT-SqzArHpxW6vkAWG2k4TcbKxKCAJ_aA&usqp=CAU"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094404789888",
+    "project_id": "dhairya-ace5e",
+    "storage_bucket": "dhairya-ace5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094404789888:android:e36fdd00860a8dea807865",
+        "android_client_info": {
+          "package_name": "com.example.dhairya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094404789888-p399r255p71au5ss3lvriicp624val2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcp2rkdnt9OK_ZwpNdKxFfA3cEXsTS5Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094404789888-p399r255p71au5ss3lvriicp624val2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "problems": [
+    {
+      "title": "Problems of menstrual cycles",
+      "subtitle": "Aayushi Gupta",
+      "summary": "Menstrual cycle can behave differently every month but it can get worse if you're smoking. Yes, smoking can affect your menstrual health!",
+      "description": "Menstrual cycle can behave differently every month but it can get worse if you're smoking. Yes, smoking can affect your menstrual health! Every woman wants her menstrual cycle to be normal, healthy and tension-free? But on months when it is off track, it can really put her in a tizzy! But our menstrual health is a little sensitive and even some small actions can make a difference. From leading an unhealthy diet, stress, too much exercising, certain health conditions to an unhealthy lifestyle- all of them can wreak havoc on your menstrual health. Smoking, especially, is one habit that can take a toll on your menstrual health.",
+      "article": "https://www.healthshots.com/intimate-health/menstruation/can-smoking-affect-menstrual-cycle-an-expert-answers/",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAACh0x6lwdjOMOhvJAFxP_NiYNklsGaqw-Q&usqp=CAU",
+      "contentImage": [
+        "https://indimedo.com/public/blog/how-to-get-rid-of-irregular-periods--problem-and-solution.jpeg",
+        "https://www.verywellfamily.com/thmb/5Ph70FJZmoOOMTmDyxnq8d4x9PY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-an-irregular-period-1959924_final-52123064a2144e9d967a80a49cb615c5.jpg"
+      ]
+    },
+
+    {
+      "title": "effects of tobacco smoking on bones mass",
+      "subtitle": "J Osteoporos.",
+      "summary": "The effects of tobacco smoking on bones mass: overview of Pathophysiologic mechanisms.",
+      "description": "Recent evidence demonstrates that tobacco smoking causes an imbalance in bone turnover, leading to lower bone mass and making bone vulnerable to osteoporosis and fracture. Tobacco smoke influences bone mass indirectly through alteration of body weight, parathyroid hormone-vitamin D axis, adrenal hormones, sex hormones, and increased oxidative stress on bony tissues. Also, tobacco smoke influences bone mass through a direct effect on osteogenesis and angiogenesis of bone.",
+      "article": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304634/#:~:text=Recent%20evidence%20demonstrates%20that%20tobacco,vulnerable%20to%20osteoporosis%20and%20fracture",
+      "coverImage": "https://static01.nyt.com/images/2022/09/29/well/29well-nl-bone-health-copy/29well-nl-bone-health-copy-superJumbo-v2.jpg",
+      "contentImage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLLfCaTHkT0xNAxDPSiyzYZaRoYb0VDrJXw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9bZLGNGv5C3WAYV0-upA50h34vkmn9xNFQ&usqp=CAU"
+      ]
+    },
+
+    {
+      "title": "Smoking can lead to vision loss or blindness.",
+      "subtitle": "Joseph Ch.",
+      "summary": "Smoking can lead to vision loss or blindness",
+      "description": "Smoking has long been known to cause heart disease and lung cancer; however many people don't realize that smoking can lead to vision loss. Studies show smoking increases the risk of age-related macular degeneration, cataracts, glaucoma and diabetic retinopathy and Dry Eye Syndrome.",
+      "article": "https://journals.lww.com/shockjournal/fulltext/2019/05000/blood_brain_barrier_dysfunction_after_smoke.14.aspx#:~:text=Fig.,that%20rupture%20throughout%20the%20brain",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFu0RQVOrCppF-WLhMpzBuGPOv4i93nCgig&usqp=CAU",
+      "contentImage": [
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201902/smoking-adult-blindness-770x1150.jpg?YsqdHDSzV8Gn3GoxOliyNGenqOoD7wHk",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxioPKISXq4qaptkrp-TNATaRXM0OH5bvpbw&usqp=CAU"
+      ]
+    },
+
+    {
+      "title": "Blood-Smoking Relation",
+      "subtitle": "Deaprtment of Health, Govt. of India",
+      "summary": "Blood Brain barrier dysfunction after smoke inhalation injury, with and without skin burn",
+      "description": "There is limited information available regarding the effects of smoke inhalation with and without third-degree skin burn on the central nervous system (CNS). Despite the fact that advances in clinical care and the development of novel treatments have greatly increased the survival of burn-injury and smoke inhalation injury patients, as of today, very few follow-up studies on pathological alterations of the CNS and associated cognitive dysfunctions have been conducted.",
+      "article": "https://journals.lww.com/shockjournal/fulltext/2019/05000/blood_brain_barrier_dysfunction_after_smoke.14.aspx#:~:text=Fig.,that%20rupture%20throughout%20the%20brain",
+      "coverImage": "https://4.bp.blogspot.com/-K4Uwxl8fa6s/VuguEW-JxOI/AAAAAAAAA_A/YPRV--id2zYAS4ZU9yJvj7TKw1RPJU26Q/s1600/TBI-graphic%2B%25285%2529.jpg",
+      "contentImage": [
+        "https://physoc.onlinelibrary.wiley.com/cms/asset/ae5c3e64-fd23-40fa-abc1-52edfa8a7edd/tjp14195-gra-0001-m.jpg",
+        "https://www.cell.com/cms/attachment/03fad7ee-59f4-4ec5-bbe0-715dadba7c3d/fx1_lrg.jpg"
+      ]
+    }
+  ]
+}
