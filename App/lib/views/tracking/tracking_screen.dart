@@ -81,7 +81,7 @@ class TrackingScreen extends StatelessWidget {
                               letterSpacing: 1,
                             ),
                           ),
-                          Row(
+                          const Row(
                             children: [],
                           )
                         ],
