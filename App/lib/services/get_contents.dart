@@ -9,6 +9,7 @@
 //   }
 // }
 
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
@@ -17,20 +18,19 @@ Future<void> fetchData() async {
   var url = Uri.parse(_url); // Replace with your server's URL
 
   // Send a GET request to the server
-  var response =
-      await http.get(Uri.parse('http://192.168.219.165:5000/articles/article'));
+  var response = await http.get(url);
 
   if (response.statusCode == 200) {
     // Data fetched successfully
     var responseData = json.decode(response.body);
     // Process the fetched data
-    print('Fetched data: $responseData');
+    if (kDebugMode) {
+      print('Fetched data: $responseData');
+    }
   } else {
     // Data fetch failed
-    print('Data fetch failed. Error code: ${response.statusCode}');
+    if (kDebugMode) {
+      print('Data fetch failed. Error code: ${response.statusCode}');
+    }
   }
 }
-
-// Future<http.Response> fetchData() {
-//   return http.get(Uri.parse('http://10.0.2.2:5000/articles/article'));
-// }
